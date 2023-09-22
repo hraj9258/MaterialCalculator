@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MaterialYouCalculator</string>
+    <string name="button_ac">AC</string>
+    <string name="button_parantheses">( )</string>
+    <string name="button_modulus">%</string>
+    <string name="button_devide">/</string>
+    <string name="button_num_seven">7</string>
+    <string name="button_num_eight">8</string>
+    <string name="button_num_nine">9</string>
+    <string name="button_multiiply">*</string>
+    <string name="button_num_four">4</string>
+    <string name="button_num_fiive">5</string>
+    <string name="button_num_six">6</string>
+    <string name="button_minus">-</string>
+    <string name="button_num_three">3</string>
+    <string name="button_num_two">2</string>
+    <string name="button_num_one">1</string>
+    <string name="button_add">+</string>
+    <string name="button_num_zero">0</string>
+    <string name="button_decimal">.</string>
+    <string name="button_result">=</string>
+    <string name="calculation_error">Error</string>
+</resources>
